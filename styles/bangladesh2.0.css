@@ -1,0 +1,91 @@
+
+
+
+
+  
+  .fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+
+/* nav styles */ 
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 24px, 160px;
+}
+.nav-btn{
+    background-color: white;
+    font-weight: 600;
+    font-size: 18px;
+    color: #006A50;
+    padding: 15px 30px;
+    border-radius: 8px;
+    border-color: #006A50;
+    margin-right: 50px;
+}
+.nev-title{
+    font-weight: bold;
+    font-size: 32px;
+    margin-left: 120px;
+}
+nav ul li {
+    list-style: none;
+
+}
+nav ul{
+    display: flex;
+}
+/*Banner style */
+.banner{
+    display: flex;
+    width: 990px;
+    height: 400px;
+    margin-left: 100px;
+    margin-right: 70px;
+    background-color: #C6E4D6;
+    padding: 100px;
+    border-radius: 24px;
+
+
+}
+
+.banner-content{
+    width: 622px;
+    height: 346px;
+    text-align: left;
+    padding: 0%;
+    text-wrap: balance;
+    
+}
+
+.banner-h6{
+    font-weight:500px;
+    font-size: 24px;
+    color: #0e0e0e7e;
+    margin-bottom: 5px;
+}
+.banner-h1{
+    font-weight: bold;
+    font-size: 56;
+    color: #0E0E0E;
+    text-align: left;
+}
+.btn-explore{
+    width: 270px;
+    height: 56px;
+    border-radius: 8px;
+    background-color: #006A50;
+    font-weight: 600px;
+    font-size: 18px;
+    color: white;
+    justify-content: center;
+}
+.banner-img{
+    width: 474px;
+    height: 400px;
+}
