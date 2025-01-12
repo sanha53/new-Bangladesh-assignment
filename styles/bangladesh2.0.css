@@ -118,6 +118,7 @@ nav ul{
     color: #0e0e0eab;
     margin-top: 5px;
     margin-left: 100px;
+    margin-right: 60px;
 
 }
 .d-h{ 
@@ -132,7 +133,8 @@ nav ul{
     background-color: #548ff54f;
     padding: 32px;
     border-radius: 12px;
-    margin-right: 30px;
+    margin-right: 60px;
+    margin-bottom: 20px;
 
 
 }
@@ -155,7 +157,8 @@ nav ul{
     background-color: #c6e4d6bd;
     padding: 32px;
     border-radius: 12px;
-    margin-right: 30px;
+    margin-right: 60px;
+    margin-bottom: 20px;
 }
 .d-t2{
     width: 112px;
@@ -175,6 +178,7 @@ nav ul{
     background-color: #F7EBCF;
     padding: 32px;
     border-radius: 12px;
+    margin-bottom: 20px;
 
 }
 .d-t3{
@@ -187,4 +191,74 @@ nav ul{
     color: white;
     background-color: #FFC239;
     border-color: #FFC239;
+}
+
+/*frame-3*/
+.rn{
+   font-size: 40px; 
+   font-weight: bold;
+   color: #0E0E0E;
+   margin-left: 100px;
+   margin-top: 50px;
+   margin-bottom: 5px;
+}
+.f-rn{
+    display: flex;
+    margin-left: 100px;
+    width: 1140px ;
+    height: 302px;
+    background-color: rgba(245, 222, 179, 0.233);
+    border-radius: 24px;
+    padding: 48px 48px;
+}
+.satelite-img{
+    width: 408px;
+    height: 306px;
+    border-radius: 20px;
+}
+.rn-1{
+    width:710px;
+    height: 180px;
+
+}
+.rn-h3{
+    margin-left: 100px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #0E0E0E;
+
+}
+.aljazeera-img{
+   width: 100px;
+   height: 30px;
+   margin-left: 100px;
+   margin-bottom: 0%;
+
+}
+.time{
+    margin-left: 100px;
+    font-size: 10px;
+    font-weight: 400;
+}
+.d-t22{
+    width: 112px;
+    height:41px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+    background-color: #09A15C;
+    border-color: #09A15C;
+    margin-left: 100px;
+}
+.f-rn2{
+    display: flex;
+    margin-left: 100px;
+    width: 1170px ;
+    height: 302px;
+    background-color: rgba(245, 222, 179, 0.233);
+    border-radius: 24px;
+    padding: 35px 35px;
+    
 }
